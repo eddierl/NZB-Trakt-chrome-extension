@@ -75,13 +75,17 @@ function main() {
 
 	var hideButton = "share";
 	var node=document.getElementById(hideButton);
-	var clone = node.cloneNode(true)
+	
+	//reposition
+	node.parentNode.appendChild(node);
+	
+	var clone = node.cloneNode(false);
+	node.parentNode.replaceChild(clone,node);
+	
 	clone.textContent="Download";
-
 	clone.addEventListener("click" ,getURL);
-	node.parentNode.appendChild(clone);
-
-	node.setAttribute("style","display:none");
+	
+		
 }
 
 main();
