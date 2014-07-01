@@ -1,0 +1,16 @@
+
+Changlog is fun
+
+==== 01/07/14 =====
++ if no result availiable, displays message.
++ added nzbindex search flags for "Require NFO" and "Complete only". (removed passworded files as a side-effect)
++ added prompt to choose form the first 5 nzb results.
++ ruined edds code.
+
++ start download without opening a new window
+
+TODO:
+- Clear the prompt text, by removing text within brackets.
+- fix "no results". should be added when all the results we get are shity.
+- sometimes all the nzbs have a small number of missing files. should add those anyway, but display how many missing.
+- should manually check for "password protected, instead of "Require NFO"
