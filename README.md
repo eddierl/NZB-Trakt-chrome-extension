@@ -1,4 +1,4 @@
 NZB-Trakt
 =========
 
-NZB Trakt
+NZB Trakt - alpha
