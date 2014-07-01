@@ -28,7 +28,7 @@ function getURL() {
 	//window.alert(query);
 	var xhr = new XMLHttpRequest();
 	xhr.open("GET", "http://nzbindex.nl/search/?q=" + query, true);
-
+	 console.log("http://nzbindex.nl/search/?q=" + query);
 	xhr.onreadystatechange = function() {
 	  if (xhr.readyState == 4) {
 		
@@ -40,21 +40,28 @@ function getURL() {
 		}
 		else { // result found
 			var infos = results.getElementsByClassName("info");
-			var promptString = "";
-			var labels = results.getElementsByTagName("label");
-			/* get to the filesize */
-			var tableBody = results.getElementsByTagName("tbody")[0];
-			var rows = tableBody.getElementsByTagName("tr");
-			for (var i = 0; labels[i] && (i < 5); i++) { // we only display the first 5 to choose from
-				var row = rows[i];
-				var column = row.getElementsByTagName("td")[2]; // file size in MB/GB
-				var fileSize = column.getElementsByTagName("div")[0];
-				
-				promptString = promptString + (i + 1) + ") " + "(" + fileSize.textContent + ") " + labels[i].textContent + "\n";
-				promptString = promptString + "--------------------------------------\n";
+			var retVal = 1;
+			
+			if(infos.length>1) {
+				var promptString = "";
+				var labels = results.getElementsByTagName("label");
+				/* get to the filesize */
+				var tableBody = results.getElementsByTagName("tbody")[0];
+				var rows = tableBody.getElementsByTagName("tr");
+				for (var i = 0; labels[i] && (i < 5); i++) { // we only display the first 5 to choose from
+					var row = rows[i];
+					//sometimes there is an extra "tr" in the collection for "oldresults", ignore it
+					if (!(row.hasAttribute("class")))
+						continue;
+					var column = row.getElementsByTagName("td")[2]; // file size in MB/GB
+					var fileSize = column.getElementsByTagName("div")[0];
+					
+					promptString = promptString + (i + 1) + ") " + "(" + fileSize.textContent + ") " + labels[i].textContent + "\n";
+					promptString = promptString + "--------------------------------------\n";
 
+				}
+				retVal = prompt("Choose NZB:\n" + promptString, "1");
 			}
-			var retVal = prompt("Choose NZB:\n" + promptString, "1");
 			var info = infos[retVal - 1];
 			window.location.href = info.getElementsByTagName("div")[1].childNodes[1].href;			
 		}
