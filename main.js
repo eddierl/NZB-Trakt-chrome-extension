@@ -46,7 +46,7 @@ function getURL() {
 			var infos = results.getElementsByClassName("info");
 			var retVal = 1;
 			
-			if(infos.length > 1) {
+			if(infos.length >= 1) {
 				
 				var labels = results.getElementsByTagName("label");
 				var tableBody = results.getElementsByTagName("tbody")[0];
