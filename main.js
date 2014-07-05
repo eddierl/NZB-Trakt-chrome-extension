@@ -51,7 +51,8 @@ function getURL() {
 				var labels = results.getElementsByTagName("label");
 				var tableBody = results.getElementsByTagName("tbody")[0];
 				var rows = tableBody.getElementsByTagName("tr");
-
+				var promptString = "";
+				
 				for (var i = 0; labels[i] && (i < 5); i++) { // we only display the first 5 to choose from
 					var row = rows[i];
 
@@ -113,7 +114,6 @@ function getURL() {
 					}
 
 					// generate a prompt string
-					var promptString = "";
 					promptString = promptString + "(" + (i + 1) + ")  " + listing + "\n" + "[" + fileSize.textContent + "] ";
 					promptString = promptString + fileAge + resolution + nfo + missing;
 					promptString = promptString + "\n--------------------------------------------------\n";
