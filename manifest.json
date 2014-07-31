@@ -7,8 +7,8 @@
 
   "content_scripts": [
     {
-      "matches": ["http://trakt.tv/*/episode/*",
-                  "http://trakt.tv/movie/*"],
+      "matches": ["*://trakt.tv/*/episode/*",
+                  "*://trakt.tv/movie/*"],
       "js": ["main.js"]
     }
   ],
