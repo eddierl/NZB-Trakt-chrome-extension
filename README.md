@@ -29,6 +29,7 @@ Displays the following info:
 Installation
 -----------
 This is only the alpha version, thus you should:
+
 1. [download](https://raw.githubusercontent.com/eddierl/NZB-Trakt-chrome-extension/updates/bin/NZB-Trakt.crx) the crx file.
 
 2. Open the chrome extensions (chrome://extensions/) page.
