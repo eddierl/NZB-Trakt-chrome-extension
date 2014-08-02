@@ -1,0 +1,960 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"length"
+			],
+			[
+				"ret",
+				"retVal"
+			],
+			[
+				"st",
+				"startMissing"
+			],
+			[
+				"info",
+				"infoHtml"
+			],
+			[
+				"inf",
+				"infoHtml"
+			],
+			[
+				"prot",
+				"protected"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"pro",
+				"promptString"
+			],
+			[
+				"tot",
+				"totalCells"
+			],
+			[
+				"co",
+				"coroutines"
+			],
+			[
+				"prin",
+				"printCount"
+			],
+			[
+				"reg",
+				"reg_char"
+			],
+			[
+				"lowe",
+				"lower_fix"
+			],
+			[
+				"ri",
+				"right_fix"
+			],
+			[
+				"WorldH",
+				"WorldLength"
+			],
+			[
+				"upper",
+				"upper_fix"
+			],
+			[
+				"ou",
+				"OutStr"
+			],
+			[
+				"nex",
+				"next_i"
+			],
+			[
+				"get",
+				"get_my_loc"
+			],
+			[
+				"vir",
+				"virus_end"
+			],
+			[
+				"open",
+				"open_success"
+			],
+			[
+				"STD",
+				"STDOUT"
+			],
+			[
+				"prog",
+				"progCount"
+			],
+			[
+				"dup",
+				"duplicateSymbol"
+			],
+			[
+				"dynsy",
+				"dynsym"
+			],
+			[
+				"proc",
+				"procedure"
+			],
+			[
+				"section",
+				"sectionHeader"
+			],
+			[
+				"sym",
+				"symbolType"
+			],
+			[
+				"sec",
+				"sectionNameIndex"
+			],
+			[
+				"string",
+				"stringTable"
+			],
+			[
+				"stri",
+				"stringTable"
+			],
+			[
+				"str",
+				"stringSectionOffset"
+			],
+			[
+				"strin",
+				"stringSectionOffset"
+			],
+			[
+				"sectino",
+				"sectionHeader"
+			],
+			[
+				"Se",
+				"sectionHeader"
+			],
+			[
+				"end",
+				"endStr"
+			],
+			[
+				"file",
+				"fileSizeDest"
+			],
+			[
+				"fil",
+				"fileSizeSource"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"fre",
+				"fread"
+			],
+			[
+				"mall",
+				"malloced"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"p",
+				"pFile"
+			],
+			[
+				"add",
+				"addressPtr"
+			],
+			[
+				"inpu",
+				"inputStr"
+			],
+			[
+				"strcm",
+				"strVarCmd"
+			],
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"temp",
+				"tempStr"
+			],
+			[
+				"repl",
+				"replicateStr"
+			],
+			[
+				"nul",
+				"NULL"
+			],
+			[
+				"left",
+				"leftPipe"
+			],
+			[
+				"rig",
+				"rightPipe"
+			],
+			[
+				"rel",
+				"releasePipes"
+			],
+			[
+				"cur",
+				"curParsed"
+			],
+			[
+				"pcmdlin",
+				"pCmdLine"
+			],
+			[
+				"new",
+				"newPipes"
+			],
+			[
+				"pr",
+				"printParsedCmdLine"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"in",
+				"integers-from"
+			],
+			[
+				"sub",
+				"sub-lst"
+			],
+			[
+				"su",
+				"sub-lst"
+			],
+			[
+				"cm",
+				"cmdLine"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"New",
+				"newLink"
+			],
+			[
+				"varL",
+				"varLinkedList"
+			],
+			[
+				"var",
+				"varLinkedList"
+			],
+			[
+				"strte",
+				"strTemp1"
+			],
+			[
+				"va",
+				"varLinkedList"
+			],
+			[
+				"pri",
+				"printVar"
+			],
+			[
+				"c",
+				"command"
+			],
+			[
+				"is",
+				"isMark"
+			],
+			[
+				"e",
+				"episodes"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"trak",
+				"traktShowName"
+			],
+			[
+				"tra",
+				"traktShowName"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"log",
+				"logIndex"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"I",
+				"INPUT"
+			],
+			[
+				"a",
+				"arguments"
+			],
+			[
+				"par",
+				"parsedCmd"
+			],
+			[
+				"arg",
+				"argCount"
+			],
+			[
+				"input_arra",
+				"input_array_index"
+			],
+			[
+				"input",
+				"input_array_index"
+			],
+			[
+				"inp",
+				"input_array_index"
+			],
+			[
+				"path",
+				"path_index"
+			],
+			[
+				"exp",
+				"expect_path"
+			],
+			[
+				"pat",
+				"path_index"
+			],
+			[
+				"ex",
+				"expect_path"
+			],
+			[
+				"punc",
+				"punc_mode"
+			],
+			[
+				"digit",
+				"digit_mode"
+			],
+			[
+				"ja",
+				"javac"
+			],
+			[
+				"de",
+				"depends"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 432.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"gutter",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Git GUI"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Fetch"
+			],
+			[
+				"ignore",
+				"Git: File: Add to Git Ignore"
+			],
+			[
+				"got",
+				"Git: Toggle Annotations"
+			],
+			[
+				"pro",
+				"SublimeREPL: Prolog Console"
+			],
+			[
+				"prolo",
+				"SublimeREPL: Prolog Console"
+			],
+			[
+				"high",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"highvisi",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"racket",
+				"SublimeREPL: Racket"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linte",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"liner",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lnt",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"insa",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"styler",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"toggle",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"gdb",
+				"Preferences: SublimeGDB Settings – User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"racke",
+				"SublimeREPL: Racket"
+			],
+			[
+				"rack",
+				"SublimeREPL: Racket"
+			],
+			[
+				"ra",
+				"SublimeREPL: Racket"
+			],
+			[
+				"rac",
+				"SublimeREPL: Racket"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"laod",
+				"Preferences: LoadFileToRepl Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scop",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 700.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/main.js",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/README.md",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/manifest.json",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/.git/config",
+		"/home/michael/Desktop/commands",
+		"/home/michael/workspace/jotty/jotty.py",
+		"/home/michael/workspace/gtkmm-test/.project",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/todo",
+		"/home/michael/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/nzb-trakt.sublime-project",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/.git/description",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/LICENSE",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/.gitignore",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/commands.txt",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/changlog.txt",
+		"/home/michael/workspace/NZB-Trakt-chrome-extension/.git/index",
+		"/home/michael/workspace/chrome/chrome-ext-nzb/main.js",
+		"/media/michael/Data/Dropbox/git-repos/chrome-ext-nzb/v0.2/main.js",
+		"/home/michael/Desktop/coffee",
+		"/home/michael/.ssh/id_rsa.pub",
+		"/home/michael/.ssh/id_rsa_github.pub",
+		"/home/michael/.ssh/known_hosts",
+		"/media/michael/Data/Dropbox/git-repos/chrome-ext-nzb/v0.2/changlog.txt",
+		"/home/michael/workspace/chrome/chrome-ext-nzb/commands.txt",
+		"/media/michael/Data/Dropbox/git-repos/chrome-ext-nzb/main.js",
+		"/media/michael/Data/Dropbox/git-repos/chrome-ext-nzb/manifest.json",
+		"/media/michael/Data/Dropbox/git-repos/chrome-ext-nzb/1.js",
+		"/home/michael/workspace/caspl142/Assignments/Ass3 (firing)/command",
+		"/home/michael/Desktop/Untitled Folder/makefile",
+		"/home/michael/Desktop/Untitled Folder/ass3.s",
+		"/home/michael/Desktop/Untitled Folder/coroutines.s",
+		"/home/michael/Desktop/Untitled Folder/coroutines[5].s",
+		"/home/michael/Desktop/Untitled Folder/printer.s",
+		"/home/michael/Desktop/Untitled Folder/atoi.s",
+		"/etc/apt/sources.list",
+		"/home/michael/graphics.error.txt",
+		"/home/michael/.cache/.fr-lt3F4Q/headbang.app-master/README.md",
+		"/home/michael/Music/mpd/playlists/haha.m3u",
+		"/home/michael/Music/mpd/playlists/hq.m3u",
+		"/mnt/01CEF2E9417AC630/linux error",
+		"/home/michael/Music/playlists/hq.m3u",
+		"/mnt/01CEF2E9417AC630/Binreader Downloads/Eric-Clapton-Eric-Clapton.Journeyman-1989-2014/Eric Clapton.Journeyman (1989) 2014/Eric Clapton - Journeyman [2014 Audio Fidelity SACD AFZ 180].cue",
+		"/media/michael/Data/Dropbox/מדעי המחשב שנה א 2013/סמסטר ד/מבוא למחשבים/הרצאות וידאו.txt",
+		"/media/michael/Data/Dropbox/מדעי המחשב שנה א 2013/סמסטר ד/מבוא למחשבים/הרצאות/אורי סויסה/הרצאות ותרגולים.txt",
+		"/home/michael/Music/playlists/hq.m3u.bk",
+		"/home/michael/Music/playlists/hq.m3u8",
+		"/home/michael/Music/playlists/new.m3u",
+		"/mnt/01CEF2E9417AC630/Music/Untitled new file",
+		"/home/michael/Desktop/toprint",
+		"/home/michael/workspace/c/foo.c",
+		"/home/michael/Downloads/hiphopapp-bin/PKGBUILD",
+		"/media/michael/Data/Dropbox/מדעי המחשב שנה א 2013/סמסטר ד/מבוא למחשבים/שנה שעברה/הרצאות/הרצאות וידאו.txt",
+		"/home/michael/Downloads/hiphopapp-bin/hiphopapp.install",
+		"/home/michael/workspace/c/main.c",
+		"/home/michael/workspace/assembly/testing/Ass3 (copy)/makefile",
+		"/home/michael/workspace/assembly/testing/Ass3 (copy)/ass3.s",
+		"/home/michael/workspace/assembly/testing/Ass3 (copy)/listingass.lst",
+		"/home/michael/workspace/caspl142/Labs/Lab7/Task4/ans",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task1/start.s",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task0b/start.s",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task0b/makefile",
+		"/media/michael/Data/Dropbox/מדעי המחשב שנה א 2013/סמסטר ד/ארכיטקטורה/SPLAB - toPrint!/IMPORTANT.ReadMe.txt.txt",
+		"/home/michael/workspace/prolog/x.pl",
+		"/home/michael/workspace/assembly/testing/Ass3/makefile",
+		"/home/michael/workspace/assembly/testing/Ass3/ass3.s",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/Main.sublime-menu",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/Default.sublime-commands",
+		"/home/michael/Desktop/בזק",
+		"/home/michael/workspace/Load file to REPL.sublime-package_FILES/LoadFileToRepl.sublime-settings",
+		"/mnt/01CEF2E9417AC630/Binreader Downloads/The.100.S01E12.720p.HDTV.X264-DIMENSION/The.100.S01E12.720p.HDTV.X264-DIMENSION.mkv/readme.txt",
+		"/home/michael/workspace/ppl142/ex5/ex5.pl",
+		"/home/michael/workspace/caspl142/Labs/Lab2/Task 1/ass2",
+		"/home/michael/workspace/caspl142/Labs/Lab2/Task 1/fake",
+		"/home/michael/workspace/caspl142/Assignments/Ass4/q14/main.c",
+		"/home/michael/workspace/assembly/testing/Ass3/listingass.lst",
+		"/home/michael/workspace/assembly/testing/Ass3/listing.lst",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task3/start.s",
+		"/home/michael/Desktop/test",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/ass3.s",
+		"/home/michael/.cache/.fr-HqCzX4/Makefile",
+		"/home/michael/workspace/assembly/testing/listing.lst",
+		"/home/michael/workspace/assembly/testing/start.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/makefile",
+		"/run/user/1000/gvfs/sftp:host=lvs.cs.bgu.ac.il,user=abramich/users/studs/bsc/2014/abramich/workspace/testing/makefile",
+		"/home/michael/workspace/assembly/testing/makefile",
+		"/run/user/1000/gvfs/sftp:host=lvs.cs.bgu.ac.il,user=abramich/users/studs/bsc/2014/abramich/workspace/testing/start.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass2/calc.s",
+		"/home/michael/.cache/.fr-4XWVaI/task1.s",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/start.s",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/config/Main.sublime-menu.template",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/config/Racket/Main.sublime-menu",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/Main.sublime-menu",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/config/Prolog/a",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/printer-orig.s",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/README.md",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/Context.sublime-menu",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/Default.sublime-commands",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/sublimerepl.py",
+		"/home/michael/.config/sublime-text-3/Packages/SublimeREPL/config/Racket/Default.sublime-commands",
+		"/home/michael/.config/sublime-text-3/Packages/LoadFileToRepl/README.markdown",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/printer.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/printer-alt.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3 (clear-screen)/printer.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3 (firing)/ass3.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/scheduler.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/coroutines.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/newinit.txt",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task3/elf.h",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task3/listing.lst",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task3/skeleton.s",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/elf.h",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/ELFexecinfected",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/main",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/ELFexec (copy)",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/ELFexec",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task2/makefile",
+		"/run/user/1000/gvfs/sftp:host=lvs.cs.bgu.ac.il,user=abramich/users/studs/bsc/2014/abramich/workspace/caspl142/Ass3/printer.s",
+		"/home/michael/workspace/caspl142/Assignments/Ass3/gui/compile-run.txt",
+		"/run/user/1000/gvfs/sftp:host=lvs.cs.bgu.ac.il,user=abramich/users/studs/bsc/2014/abramich/workspace/caspl142/Ass3/ass3.s",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task0b/elf.h",
+		"/home/michael/workspace/caspl142/Labs/Lab4/Task 2/task2c/main.c",
+		"/home/michael/workspace/caspl142/Labs/Lab4/Task 2/task2c/start.s",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task0b/examine.c",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task1/listing.lst",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task1/makefile",
+		"/home/michael/workspace/caspl142/Labs/Lab9/Task 0/elf.h"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nfo",
+			"rows",
+			"\\",
+			"H:\\Music\\Music\\",
+			"cue",
+			"D:\\Music\\",
+			"main",
+			"\\n",
+			" ",
+			"get_my_loc",
+			"get",
+			"loc",
+			"exit",
+			"make",
+			"delete",
+			"init",
+			"upper-left",
+			"entry",
+			"Elf32_Word",
+			"Program",
+			"program",
+			"jge",
+			"lseek",
+			"system_call",
+			"program ",
+			"sectionNameIndex",
+			"tmpString",
+			"dyn",
+			"symbol",
+			".dyn",
+			"typedef struct",
+			"Elf32_",
+			"dynamic",
+			"synamic",
+			"symTabSecSize",
+			"symTabCount",
+			"dynSymTabCount",
+			"TabSecSize",
+			"secsize",
+			"ymTabSecSize",
+			"dynSymTabSecSize",
+			"symTabSecSize",
+			"symStringTable",
+			"0548092156\ndaniel\n",
+			"env?",
+			"env",
+			"body",
+			"bodt",
+			"tagged",
+			"?",
+			"try",
+			"closure",
+			"visibility",
+			"high",
+			"'",
+			"auto",
+			"make-procedure",
+			"procedure",
+			"derive",
+			"derive-eval",
+			"procedure?",
+			"procedure",
+			"procedure?",
+			"procedure",
+			"select",
+			"procedure",
+			"st_info",
+			"Elf32_Section",
+			"symbol",
+			"string",
+			"shst",
+			".shstr",
+			"section",
+			"string",
+			"section",
+			"header",
+			"section",
+			"little",
+			"e_type",
+			"Cppcheck",
+			"cpp",
+			"c++",
+			"hexeditplus",
+			"password",
+			"install",
+			"pass",
+			"mpd",
+			"j",
+			"make",
+			"install",
+			"strBuffer1",
+			"$",
+			"test",
+			"print*",
+			"print",
+			"perror",
+			"STD",
+			"std",
+			"blocking",
+			"block",
+			"..\");",
+			"pid",
+			"pipefd",
+			"leftPipe",
+			"pCmdLine",
+			"pipefd",
+			"print",
+			"pipe",
+			"network",
+			"trace",
+			"sub-te",
+			"new-sub",
+			"extend-sub",
+			"sub",
+			"sub0",
+			"get-variables",
+			"n-substitution-combination",
+			"equation-equal?",
+			"new-sub",
+			"extend-sub",
+			"sub-te",
+			"atomic?",
+			"result",
+			"new_file",
+			"short",
+			"o",
+			"short",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"",
+			"H:\\Music\\Music\\",
+			"",
+			"c"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "LICENSE.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

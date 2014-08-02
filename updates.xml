@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='fbddjiceooedbafhllmldglabfaefhpg'>
-    <updatecheck codebase='https://raw.githubusercontent.com/eddierl/NZB-Trakt-chrome-extension/updates/bin/NZB-Trakt-chrome-extension.crx' version='0.1.0' />
+    <updatecheck codebase='https://raw.githubusercontent.com/eddierl/NZB-Trakt-chrome-extension/updates/bin/NZB-Trakt-chrome-extension.crx' version='0.2.0' />
   </app>
 </gupdate>\

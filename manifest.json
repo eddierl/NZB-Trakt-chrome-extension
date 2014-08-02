@@ -3,7 +3,7 @@
 
   "name": "NZB Trakt",
   "description": "This extension adds a download button to Trakt.tv, which downloads the corresponding NZB.",
-  "version": "1.0",
+  "version": "0.2",
 
   "icons": { "16": "trakt_icon.png",
            "48": "trakt_icon.png",
