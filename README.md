@@ -1,6 +1,6 @@
 NZB-Trakt
 =========
-This little Chrome extension, allows you to download the NZB file of your favorite (Uncopyrighted) TV shows, and Movies, with a click of a button, directly from its Trakt.tv page. 
+This little Chrome extension strives to make life easier for Usenet users. It allows you to download the NZB file of your favorite (Uncopyrighted) TV shows, and Movies, with a click of a button, directly from its Trakt.tv page. 
 
 
 Usage
