@@ -5,6 +5,10 @@
   "description": "This extension add a download button to trakt.tv which downloads the relevant from nzb.",
   "version": "1.0",
 
+  "icons": { "16": "trakt_icon.png",
+           "48": "trakt_icon.png",
+          "128": "trakt_icon.png" },
+
   "content_scripts": [
     {
       "matches": ["*://trakt.tv/*/episode/*",
