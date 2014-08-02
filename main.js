@@ -125,8 +125,15 @@ function getURL() {
 				}
 				retVal = prompt("Choose NZB:\n\n" + promptString, "1");
 			}
-			var info = infos[retVal - 1];
-			window.location.href = info.getElementsByTagName("div")[1].childNodes[1].href;			
+			if (retVal != null) {  // user didn't click "Cancel"
+				if (retVal > 0 && retVal <= infos.length) { // user selected a valid option
+					var info = infos[retVal - 1];
+					window.location.href = info.getElementsByTagName("div")[1].childNodes[1].href;
+				}
+				else {  // user selected invalid option
+					alert("Invalid selection number!");
+				}
+			}
 		}
 	  }
 	}

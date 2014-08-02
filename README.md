@@ -25,6 +25,7 @@ Displays the following info:
 - Is Nfo present?
 - Number of missing parts (Don't download if higher than 100)
 
+Ignores password protected files.
 
 Installation
 -----------

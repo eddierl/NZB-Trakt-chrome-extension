@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "NZB Trakt",
-  "description": "This extension add a download button to trakt.tv which downloads the relevant from nzb.",
+  "description": "This extension adds a download button to Trakt.tv, which downloads the corresponding NZB.",
   "version": "1.0",
 
   "icons": { "16": "trakt_icon.png",
